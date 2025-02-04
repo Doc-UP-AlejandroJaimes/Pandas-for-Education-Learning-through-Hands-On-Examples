@@ -1,5 +1,5 @@
 # General folders
-movies-kaggle-df/
+datasets/
 
 # Bash scripts
 .setup_ssh_agent.sh
